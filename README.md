@@ -1,2 +1,2 @@
 # DevExpress-ASP.NET-Rendering-Tweaking
-How to hack ASP.NET DevExpress to tweak its rendering. Example.
+How to hack DevExpress' ASP.NET and tweak its rendering. Example.
